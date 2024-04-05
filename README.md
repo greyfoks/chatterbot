@@ -2,6 +2,8 @@
 
 ChatterBot is a Next.js application that utilizes OpenAI's powerful language processing capabilities to create an interactive chatbot experience. This README provides an overview of the project structure, how to set it up, and basic usage instructions.
 
+![Image of Chatterbot](https://github.com/greyfoks/chatterbot/blob/master/images/chatterbot.PNG?raw=true)
+
 ## Features
 
 - **Interactive Chat Interface**: Users can engage in conversations with the ChatterBot.
