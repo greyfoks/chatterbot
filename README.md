@@ -4,6 +4,10 @@ ChatterBot is a Next.js application that utilizes OpenAI's powerful language pro
 
 ![Image of Chatterbot](https://github.com/greyfoks/chatterbot/blob/master/images/chatterbot.PNG?raw=true)
 
+## LIVE DEMO
+
+https://chatterbot-nem48zg1c-chris-s-projects-154fd460.vercel.app/
+
 ## Features
 
 - **Interactive Chat Interface**: Users can engage in conversations with the ChatterBot.
