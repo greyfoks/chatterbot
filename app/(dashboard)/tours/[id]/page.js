@@ -5,6 +5,8 @@ import Link from "next/link";
 import { redirect } from "next/navigation";
 import React from "react";
 import axios from "axios";
+import prisma from "../../../../utils/db";
+
 const url = `https://api.unsplash.com/search/photos?client_id=${process.env.UNSPLASH_API_KEY}&query=`;
 
 const SingleTourPage = async ({ params }) => {
